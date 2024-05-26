@@ -1,2 +1,2 @@
-# Sample
-Sample for IT Now
+# This is a comment
+# Express it as surprice
